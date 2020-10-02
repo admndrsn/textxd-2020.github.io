@@ -13,30 +13,33 @@
   url = "#about"
   weight = 20
 
-[[main]]
-  name = "Program"
-  url = "#2019"
-  weight = 30
-
-[[main]]
-  name = "Subscribe"
-  url = "#mailinglist"
-  weight = 40
-
-[[main]]
-  name = "Organizers"
-  url = "#people"
-  weight = 50
-
-[[main]]
-  name = "Posts"
-  url = "#posts"
-  weight = 60
+# [[main]]
+#   name = "Program"
+#   url = "#2019"
+#   weight = 30
 
 [[main]]
   name = "Past Events"
   url = "#experience"
-  weight = 70
+  weight = 30
+
+  [[main]]
+    name = "Organizers"
+    url = "#people"
+    weight = 40
+
+[[main]]
+  name = "Subscribe"
+  url = "#mailinglist"
+  weight = 50
+
+
+
+# [[main]]
+#   name = "Posts"
+#   url = "#posts"
+#   weight = 60
+
 
 [[main]]
   name = "Contact"

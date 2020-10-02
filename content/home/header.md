@@ -64,16 +64,16 @@ width: 50%;
 <div>
 <div style="background-color: rgba(50, 50, 50, 0.5); border: 4px solid #aaa; margin-bottom: 0; padding-bottom: 0; max-width: 1000px; margin-left: auto; margin-right: auto; padding-left: 10pt; padding-right: 10pt">
 <h1 class="text-center white-font font-weight-90" style="font-weight: bold">TextXD: Text Analysis Across Domains</h1>
-<h1 class="text-center white-font font-weight-90">Dec. 3 - 6, 2020</h1>
+<h1 class="text-center white-font font-weight-90">Dec. 10 - 12, 2020</h1>
 <p class="text-center white-font font-weight-90">The premier text-focused data science conference at the University of California, Berkeley.<br />Hosted by the Berkeley Institute for Data Science.</p>
 
 <ul style="list-style-type:disc; margin-bottom: 0">
 <!--<li><a href="/call-for-submissions">Call for Submissions</a>: submit an abstract by Friday, September 20</li>-->
-<li> <a href="/2019/program/">View the program</a></li>
+<!-- <li> <a href="/2019/program/">View the program</a></li>
 <li><a href="/2019/live/">Watch TextXD remotely through our live streaming</a></li>
 <li><a href="https://drive.google.com/drive/u/0/folders/1kVLUasIQ6cBN6VU-8iDfi2sr_kZyVrCD">Propose a Hackathon dataset</a> for Friday</li>
 <li> <a href="/2019/logistics/">Logistics details</a> - campus map, parking info, zero-waste policy</li>
-<li><a href="https://textxd2019.eventbrite.com">Register to attend TextXD 2019</a></li>
+<li><a href="https://textxd2019.eventbrite.com">Register to attend TextXD 2019</a></li> -->
 <!-- <li>Thank you to all who submitted abstracts! They are under review with acceptances to be announced late-October.</li> -->
 <!--<li> <a href="https://docs.google.com/forms/d/e/1FAIpQLSdCDAHg8mk-3QapoXglj9fofVhc5gXd0bEFOWecaovAmB2bpg/viewform">Apply to present a poster</a> - applications will be reviewed on a rolling basis. </li>-->
 <!--<li>Keynotes: Justin Grimmer (Stanford), Kathleen Carley (CMU), Brandon Stewart (Princeton), Yunyao Li (IBM), and Christopher Potts (Stanford)</li>-->
@@ -87,7 +87,7 @@ width: 50%;
 {{< figure library="true" src="sponsor.png" height="300" width="900" class="center" lightbox="true" >}}
 <p class="text-center"><font size="2"> The Berkeley Institute for Data Science has received support from Goldman Sachs, State Street, John Deere, and
 Johnson & Johnson. </font> </p>
-<p class="text-center white-font font-weight-90"><a href="#contact">Contact us</a> to become a TextXD 2019 Sponsor.</p>
+<p class="text-center white-font font-weight-90"><a href="#contact">Contact us</a> to become a TextXD 2020 Sponsor.</p>
 
 <br>
 

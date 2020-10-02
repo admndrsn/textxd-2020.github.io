@@ -1,12 +1,12 @@
 ---
 # Display name
-name: Ciera Martinez
+name: Stacy Reardon
 
-nameurl: https://bids.berkeley.edu/people/ciera-martinez
+nameurl: https://dlab.berkeley.edu/people/stacy-reardon
 
 # Username (this should match the folder name)
-#authors:
-#- maryam
+authors:
+- caroline
 
 # Is this the primary user of the site?
 superuser: false
@@ -17,14 +17,15 @@ role: UC Berkeley
 # Organizations/Affiliations
 organizations:
 - name: UC Berkeley
-  url: ""
+  url: "http://violetyao.github.io"
 
 # Short bio (displayed in user profile at end of posts)
 
-weight: 2
+weight: 4
 
 interests:
-- Molecular and Cell Biology
+
+
 
 education:
   courses:
@@ -67,7 +68,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- Program Committee
+- Action Committee
 
 - Researchers
 - Visitors

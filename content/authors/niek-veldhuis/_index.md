@@ -1,12 +1,12 @@
 ---
 # Display name
-name: Ciera Martinez
+name: Niek Veldhuis
 
-nameurl: https://bids.berkeley.edu/people/ciera-martinez
+nameurl: https://bids.berkeley.edu/people/niek-veldhuis
 
 # Username (this should match the folder name)
-#authors:
-#- maryam
+authors:
+- caroline
 
 # Is this the primary user of the site?
 superuser: false
@@ -17,14 +17,14 @@ role: UC Berkeley
 # Organizations/Affiliations
 organizations:
 - name: UC Berkeley
-  url: ""
+  url: "http://violetyao.github.io"
 
 # Short bio (displayed in user profile at end of posts)
 
-weight: 2
+weight: 6
 
-interests:
-- Molecular and Cell Biology
+
+
 
 education:
   courses:

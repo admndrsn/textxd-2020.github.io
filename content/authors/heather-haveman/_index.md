@@ -19,7 +19,7 @@ organizations:
 - name: BIDS, D-Lab UC Berkeley
   url: ""
 
-weight: 2
+weight: 4
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -67,7 +67,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- Organizing Team
+- Program Committee
 
 - Researchers
 - Visitors

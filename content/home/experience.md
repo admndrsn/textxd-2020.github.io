@@ -3,7 +3,7 @@
 widget = "experience"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 75  # Order that this section will appear.
+weight = 12  # Order that this section will appear.
 
 title = "Past Events"
 subtitle = ""
@@ -43,5 +43,14 @@ description = """"""
   date_start = "2018-12-05"
   date_end = "2018-12-07"
   description = """"""
+
+  [[experience]]
+    title = "TextXD 2019"
+    company = "2019 program"
+    company_url = "https://www.textxd.org/2019/program/"
+  #  location = "UC Berkeley"
+    date_start = "2019-12-03"
+    date_end = "2019-12-05"
+    description = """"""
 
 +++

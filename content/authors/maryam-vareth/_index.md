@@ -21,7 +21,7 @@ organizations:
 
 # Short bio (displayed in user profile at end of posts)
 
-weight: 4
+weight: 5
 
 interests:
 - Health & Life Sciences
@@ -67,7 +67,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- Organizing Team
+- Program Committee
 
 - Researchers
 - Visitors
