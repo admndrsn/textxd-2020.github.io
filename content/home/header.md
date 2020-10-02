@@ -64,7 +64,7 @@ width: 50%;
 <div>
 <div style="background-color: rgba(50, 50, 50, 0.5); border: 4px solid #aaa; margin-bottom: 0; padding-bottom: 0; max-width: 1000px; margin-left: auto; margin-right: auto; padding-left: 10pt; padding-right: 10pt">
 <h1 class="text-center white-font font-weight-90" style="font-weight: bold">TextXD: Text Analysis Across Domains</h1>
-<h1 class="text-center white-font font-weight-90">Dec. 3 - 6, 2019</h1>
+<h1 class="text-center white-font font-weight-90">Dec. 3 - 6, 2020</h1>
 <p class="text-center white-font font-weight-90">The premier text-focused data science conference at the University of California, Berkeley.<br />Hosted by the Berkeley Institute for Data Science.</p>
 
 <ul style="list-style-type:disc; margin-bottom: 0">
