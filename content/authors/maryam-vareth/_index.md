@@ -6,17 +6,17 @@ nameurl: https://bids.berkeley.edu/people/maryam-vareth
 
 # Username (this should match the folder name)
 authors:
-- caroline
+- maryam
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: UCSF
+role: UC Berkeley - UCSF
 
 # Organizations/Affiliations
 organizations:
-- name: UCSF
+- name: UC Berkeley - UCSF
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
