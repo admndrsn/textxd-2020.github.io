@@ -1,31 +1,31 @@
 ---
 # Display name
-name: Maryam Vareth
+name: Oksana Gologorskaya
 
-nameurl: https://bids.berkeley.edu/people/maryam-vareth
+nameurl: https://profiles.ucsf.edu/oksana.gologorskaya
 
 # Username (this should match the folder name)
 authors:
-- maryam
+- srivastava
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: UC Berkeley - UCSF
+role: UCSF
+
+weight: 6
 
 # Organizations/Affiliations
 organizations:
-- name: UC Berkeley - UCSF
+- name: BIDS, D-Lab UC Berkeley
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-
-weight: 5
+bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Health & Life Sciences
-
+-  CTSI & Information Commons
 education:
   courses:
   - course: PhD in Artificial Intelligence
