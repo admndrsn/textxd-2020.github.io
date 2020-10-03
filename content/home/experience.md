@@ -47,7 +47,7 @@ description = """"""
   [[experience]]
     title = "TextXD 2019"
     company = "2019 program"
-    company_url = "https://www.textxd.org/2019/program/"
+    company_url = "https://2019.textxd.org/2019/program/"
   #  location = "UC Berkeley"
     date_start = "2019-12-03"
     date_end = "2019-12-05"
