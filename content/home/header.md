@@ -87,8 +87,7 @@ width: 50%;
 <p class="text-center white-font font-weight-5000"><b>Berkeley Institute for Data Science (BIDS) </b></p>
 
 <!--<li>{{< figure library="true" src="sponsor.png" height="300" width="900" class="center" lightbox="true" >}}</li>-->
-<p class="text-center"><font size="2"> The Berkeley Institute for Data Science has received support from Accenture AI, Goldman Sachs, State Street, John Deere, and
-Johnson & Johnson. </font> </p>
+<p class="text-center"><font size="2"> The Berkeley Institute for Data Science thanks Accenture AppIied Intelligence for its support of our conference this year. </font> </p>
 <!--<li><p class="text-center white-font font-weight-90"><a href="#contact">Contact us</a> to become a TextXD 2020 Sponsor.</p></li>-->
 
 <br>
