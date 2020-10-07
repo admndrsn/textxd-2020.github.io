@@ -83,8 +83,7 @@ width: 50%;
 </ul>  
 </div>
 
-<p class="text-center white-font font-weight-5000"><b>Sponsored by:</b></p>
-<p class="text-center white-font font-weight-5000"><b>Berkeley Institute for Data Science (BIDS) </b></p>
+<p class="text-center white-font font-weight-5000"><b>Hosted by Berkeley Institute for Data Science (BIDS) </b></p>
 
 <!--<li>{{< figure library="true" src="sponsor.png" height="300" width="900" class="center" lightbox="true" >}}</li>-->
 <p class="text-center"><font size="2"> The Berkeley Institute for Data Science thanks Accenture AppIied Intelligence for its support of our conference this year. </font> </p>
