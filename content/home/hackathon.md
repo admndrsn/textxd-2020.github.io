@@ -25,4 +25,4 @@ This year we wish to hold a three-day (48 hour) hackathon. The theme of the hack
 
 🗓️ We will accept applications up until November 1, 2020.
 
-<button type="button" class="btn btn-info btn-lg"><a style="color:white;" href="https://docs.google.com/forms/d/e/1FAIpQLScs-HArdvW4uwGT3mSl_j06LEWSF7zb85TEzVoTHBgfxakfJw/viewform?usp=pp_url&mc_cid=d85ef03802&mc_eid=[UNIQID]">Apply for Hackathon</a></button>
+<a href="https://docs.google.com/forms/d/e/1FAIpQLScs-HArdvW4uwGT3mSl_j06LEWSF7zb85TEzVoTHBgfxakfJw/viewform?usp=pp_url&mc_cid=d85ef03802&mc_eid=[UNIQID]" type="button" class="btn btn-info btn-lg">Apply for Hackathon</a>

@@ -77,9 +77,9 @@ width: 50%;
 <div class="container">
   <div class="row">
     <div class="col text-center">
-    <button href="https://www.eventbrite.com/e/textxd-text-analysis-across-domains-2020-registration-123743043775?aff=odeimcmailchimp&mc_cid=d85ef03802&mc_eid=[UNIQID]" type="button" class="btn btn-info btn-lg">Register Now</button>
-      <button href="#lightning_talk" type="button" class="btn btn-info btn-lg">Submit your Lightning Talk</button>
-      <button href="#hackathon" type="button" class="btn btn-info btn-lg">Apply for Hackathon</button>
+    <a href="https://www.eventbrite.com/e/textxd-text-analysis-across-domains-2020-registration-123743043775?aff=odeimcmailchimp&mc_cid=d85ef03802&mc_eid=[UNIQID]" type="button" class="btn btn-info btn-lg">Register Now</a>
+      <a href="#lightning_talk" type="button" class="btn btn-info btn-lg">Submit your Lightning Talk</a>
+      <a href="#hackathon" type="button" class="btn btn-info btn-lg">Apply for Hackathon</a>
     </div>
   </div>
 </div>

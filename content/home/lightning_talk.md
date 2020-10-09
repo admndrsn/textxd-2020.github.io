@@ -25,4 +25,4 @@ We understand that some of the best work on text analysis across domains is stil
 
 🗓️ We will accept submissions up until November 1, 2020.
 
-<button href=https://docs.google.com/forms/d/e/1FAIpQLSe6GkEguRBZW4QhA0Xu7InXnCsPTURc6MldRALeJluLWyhZOg/viewform?usp=pp_url&mc_cid=d85ef03802&mc_eid=[UNIQID]" type="button" class="btn btn-info btn-lg">Submit your Lightning Talk</button>
+<a href=https://docs.google.com/forms/d/e/1FAIpQLSe6GkEguRBZW4QhA0Xu7InXnCsPTURc6MldRALeJluLWyhZOg/viewform?usp=pp_url&mc_cid=d85ef03802&mc_eid=[UNIQID]" type="button" class="btn btn-info btn-lg">Submit your Lightning Talk</a>
