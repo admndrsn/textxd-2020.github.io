@@ -48,6 +48,7 @@ subtitle = ""
 
 +++
 <html>
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
 <head>
 <style>
 .center {
@@ -60,12 +61,33 @@ width: 50%;
 </head>
 
 <body>
+<br>
+<br>
+<br>
+
 <script id="mcjs">!function(c,h,i,m,p){m=c.createElement(h),p=c.getElementsByTagName(h)[0],m.async=1,m.src=i,p.parentNode.insertBefore(m,p)}(document,"script","https://chimpstatic.com/mcjs-connected/js/users/a062a2cae318d30964107a0dc/5c5c4b644791f168f9bbf8aba.js");</script>
 <div>
-<div style="background-color: rgba(50, 50, 50, 0.5); border: 4px solid #aaa; margin-bottom: 0; padding-bottom: 0; max-width: 1000px; margin-left: auto; margin-right: auto; padding-left: 10pt; padding-right: 10pt">
+<!-- <div style="background-color: rgba(50, 50, 50, 0.5); border: 4px solid #aaa; margin-bottom: 0; padding-bottom: 0; max-width: 1000px; margin-left: auto; margin-right: auto; padding-left: 10pt; padding-right: 10pt"> -->
 <h1 class="text-center white-font font-weight-90" style="font-weight: bold">TextXD: Text Analysis Across Domains</h1>
 <h1 class="text-center white-font font-weight-90">Dec. 10 - 12, 2020</h1>
 <p class="text-center white-font font-weight-90">The premier text-focused data science conference at the University of California, Berkeley.</p>
+
+<br>
+
+<div class="container">
+  <div class="row">
+    <div class="col text-center">
+    <button href="https://www.eventbrite.com/e/textxd-text-analysis-across-domains-2020-registration-123743043775?aff=odeimcmailchimp&mc_cid=d85ef03802&mc_eid=[UNIQID]" type="button" class="btn btn-info btn-lg">Register Now</button>
+      <button href="#lightning_talk" type="button" class="btn btn-info btn-lg">Submit your Lightning Talk</button>
+      <button href="#hackathon" type="button" class="btn btn-info btn-lg">Apply for Hackathon</button>
+    </div>
+  </div>
+</div>
+
+
+
+
+
 
 <ul style="list-style-type:disc; margin-bottom: 0">
 <!--<li><a href="/call-for-submissions">Call for Submissions</a>: submit an abstract by Friday, September 20</li>-->
@@ -81,7 +103,7 @@ width: 50%;
 <!--<li>Ideas for TextXD 2019? <a href="https://docs.google.com/forms/d/e/1FAIpQLSe9ISpOJ9mn5nx3q2JwsAW_LtHZ2G8RgDLpag9mtXn1aHX_3A/viewform">Complete our feedback survey.</a></li>
   <li> <a href="http://2018.textxd.org/programs/textxd2018/">View our 2018 program</a> or <a href="https://www.youtube.com/playlist?list=PLKW2Azk23ZtT4JpKwmfUh8zzJGAkyRk46">watch our 2018 talk videos</a>.-->
 </ul>  
-</div>
+<!-- </div> -->
 
 <p class="text-center white-font font-weight-5000"><b>Hosted by Berkeley Institute for Data Science (BIDS) </b></p>
 
@@ -89,7 +111,7 @@ width: 50%;
 <p class="text-center"><font size="2"> The Berkeley Institute for Data Science thanks Accenture AppIied Intelligence for its support of our conference this year. </font> </p>
 <!--<li><p class="text-center white-font font-weight-90"><a href="#contact">Contact us</a> to become a TextXD 2020 Sponsor.</p></li>-->
 
-<br>
+
 
 </div>
 </body>

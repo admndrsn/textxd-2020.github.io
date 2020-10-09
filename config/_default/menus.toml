@@ -13,6 +13,16 @@
   url = "#about"
   weight = 20
 
+[[main]]
+  name = "Lightning Talk"
+  url = "#lightning_talk"
+  weight = 21
+
+[[main]]
+  name = "Hackathon"
+  url = "#hackathon"
+  weight = 22
+
 # [[main]]
 #   name = "Program"
 #   url = "#2019"
