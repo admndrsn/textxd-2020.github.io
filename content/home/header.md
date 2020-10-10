@@ -80,8 +80,7 @@ width: 50%;
   </div>
 </div>
 
-<br>
-<p class="text-center white-font font-weight-300">The Conference Program will be available in mid November.</p>
+<p class="text-center white-font font-weight-300" style="font-weight: bold">The Conference Program will be available in mid November.</p>
 <br>
 
 <div class="container">
