@@ -70,7 +70,7 @@ width: 50%;
 <!-- <div style="background-color: rgba(50, 50, 50, 0.5); border: 4px solid #aaa; margin-bottom: 0; padding-bottom: 0; max-width: 1000px; margin-left: auto; margin-right: auto; padding-left: 10pt; padding-right: 10pt"> -->
 <h1 class="text-center white-font font-weight-90" style="font-weight: bold">TextXD: Text Analysis Across Domains</h1>
 <h1 class="text-center white-font font-weight-90">Dec. 10 - 12, 2020</h1>
-<p class="text-center white-font font-weight-90">The premier text-focused data science conference at the University of California, Berkeley.</p>
+<p class="text-center white-font font-weight-300">The premier text-focused data science conference at the University of California, Berkeley.</p>
 
 <div class="container">
   <div class="row">
@@ -80,13 +80,15 @@ width: 50%;
   </div>
 </div>
 
-<p class="text-center white-font font-weight-90">The Conference Program will be available in mid November.</p>
+<br>
+<p class="text-center white-font font-weight-300">The Conference Program will be available in mid November.</p>
+<br>
 
 <div class="container">
   <div class="row">
     <div class="col text-center">
-      <a href="#lightning_talk" type="button" class="btn btn-outline-light">Interested in <br> presenting your research?</a>
-      <a href="#hackathon" type="button" class="btn btn-outline-light">Interested to <br> hack with a purpose?</a>
+      <a href="#lightning_talk" type="button" class="btn btn-outline-dark">Interested in <br> presenting your research?</a>
+      <a href="#hackathon" type="button" class="btn btn-outline-dark">Interested to <br> hack with a purpose?</a>
     </div>
   </div>
 </div>
