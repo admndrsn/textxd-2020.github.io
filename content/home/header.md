@@ -116,7 +116,7 @@ width: 50%;
 <p class="text-center white-font font-weight-5000"><b>Hosted by <a href="https://bids.berkeley.edu/">Berkeley Institute for Data Science</a> (BIDS) </b></p>
 
 <!--<li>{{< figure library="true" src="sponsor.png" height="300" width="900" class="center" lightbox="true" >}}</li>-->
-<p class="text-center"><font size="10"> The Berkeley Institute for Data Science thanks Accenture AppIied Intelligence for its support of our conference this year. </font> </p>
+<p class="text-center"><font size="3"> The Berkeley Institute for Data Science thanks Accenture AppIied Intelligence for its support of our conference this year. </font> </p>
 <!--<li><p class="text-center white-font font-weight-90"><a href="#contact">Contact us</a> to become a TextXD 2020 Sponsor.</p></li>-->
 
 </div>

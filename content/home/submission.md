@@ -30,10 +30,6 @@ SCHEDULE IN BRIEF:
 <li>Saturday, Dec. 12th:	Closing remarks and award ceremony </li>
 </ul>
 
-<ul>
-<li>Thursday, Dec. 10th - Saturday Dec. 12:  3-day Hackathon (Theme: Law and Society)  </li>
-</ul>
-
 We understand that some of the best work on text analysis across domains is still in development. For this reason, we wish to encourage you to share your work with us by submitting a short 3-5 minute lightning talk of your research involving text analysis.
 
 🗓️ We will accept submissions up until November 1, 2020.
