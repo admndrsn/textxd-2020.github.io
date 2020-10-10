@@ -70,7 +70,7 @@ width: 50%;
 <!-- <div style="background-color: rgba(50, 50, 50, 0.5); border: 4px solid #aaa; margin-bottom: 0; padding-bottom: 0; max-width: 1000px; margin-left: auto; margin-right: auto; padding-left: 10pt; padding-right: 10pt"> -->
 <h1 class="text-center white-font font-weight-90" style="font-weight: bold">TextXD: Text Analysis Across Domains</h1>
 <h1 class="text-center white-font font-weight-90">Dec. 10 - 12, 2020</h1>
-<p class="text-center white-font font-weight-300">The premier text-focused data science conference at the University of California, Berkeley.</p>
+<p class="text-center white-font font-weight-300" style="font-weight: bold">The premier text-focused data science conference at the University of California, Berkeley.</p>
 
 <div class="container">
   <div class="row">
@@ -110,13 +110,11 @@ width: 50%;
 </ul>  
 <!-- </div> -->
 <br>
-<p class="text-center white-font font-weight-5000"><b>Hosted by Berkeley Institute for Data Science (BIDS) </b></p>
+<p class="text-center white-font font-weight-5000"><b>Hosted by <a href="https://bids.berkeley.edu/">Berkeley Institute for Data Science (BIDS)</a> </b></p>
 
 <!--<li>{{< figure library="true" src="sponsor.png" height="300" width="900" class="center" lightbox="true" >}}</li>-->
 <p class="text-center"><font size="2"> The Berkeley Institute for Data Science thanks Accenture AppIied Intelligence for its support of our conference this year. </font> </p>
 <!--<li><p class="text-center white-font font-weight-90"><a href="#contact">Contact us</a> to become a TextXD 2020 Sponsor.</p></li>-->
-
-
 
 </div>
 </body>
