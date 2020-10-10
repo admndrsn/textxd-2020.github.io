@@ -29,7 +29,7 @@ subtitle = ""
   # gradient_end = "SkyBlue"
 
   # Background image.
-  image = "headers/berkeley-pink-sky-panorama.jpg"  # Name of image in `static/img/`.
+  image = "headers/berkeley-pink-sky-panorama-banner-v1.jpg"  # Name of image in `static/img/`.
   image_darken = 0.3  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
 
   # Text color (true=light or false=dark).
@@ -74,19 +74,26 @@ width: 50%;
 
 <br>
 
+
 <div class="container">
   <div class="row">
     <div class="col text-center">
     <a href="https://www.eventbrite.com/e/textxd-text-analysis-across-domains-2020-registration-123743043775?aff=odeimcmailchimp&mc_cid=d85ef03802&mc_eid=[UNIQID]" type="button" class="btn btn-info btn-lg">Register Now</a>
+    </div>
+  </div>
+</div>
+
+<br>
+<br>
+
+<div class="container">
+  <div class="row">
+    <div class="col text-center">
       <a href="#lightning_talk" type="button" class="btn btn-info btn-lg">Submit your Lightning Talk</a>
       <a href="#hackathon" type="button" class="btn btn-info btn-lg">Apply for Hackathon</a>
     </div>
   </div>
 </div>
-
-
-
-
 
 
 <ul style="list-style-type:disc; margin-bottom: 0">
