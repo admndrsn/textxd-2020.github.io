@@ -80,6 +80,7 @@ width: 50%;
   </div>
 </div>
 
+<br>
 <p class="text-center white-font font-weight-300" style="font-weight: bold">The Conference Program will be available in mid November.</p>
 <br>
 
@@ -108,7 +109,7 @@ width: 50%;
   <li> <a href="http://2018.textxd.org/programs/textxd2018/">View our 2018 program</a> or <a href="https://www.youtube.com/playlist?list=PLKW2Azk23ZtT4JpKwmfUh8zzJGAkyRk46">watch our 2018 talk videos</a>.-->
 </ul>  
 <!-- </div> -->
-
+<br>
 <p class="text-center white-font font-weight-5000"><b>Hosted by Berkeley Institute for Data Science (BIDS) </b></p>
 
 <!--<li>{{< figure library="true" src="sponsor.png" height="300" width="900" class="center" lightbox="true" >}}</li>-->
