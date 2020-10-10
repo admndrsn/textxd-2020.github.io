@@ -41,7 +41,7 @@
 [[main]]
   name = "Subscribe"
   url = "#mailinglist"
-  weight = 50
+ weight = 50
 
 
 
