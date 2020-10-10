@@ -14,8 +14,8 @@
   weight = 20
 
 [[main]]
-  name = "Lightning Talk"
-  url = "#lightning_talk"
+  name = "Submission"
+  url = "#submission"
   weight = 21
 
 [[main]]
@@ -23,10 +23,10 @@
   url = "#hackathon"
   weight = 22
 
-# [[main]]
-#   name = "Program"
-#   url = "#2019"
-#   weight = 30
+[[main]]
+  name = "Program"
+  url = "#2020"
+  weight = 30
 
 [[main]]
   name = "Past Events"

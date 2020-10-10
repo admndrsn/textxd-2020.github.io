@@ -72,6 +72,7 @@ width: 50%;
 <h1 class="text-center white-font font-weight-90">Dec. 10 - 12, 2020</h1>
 <p class="text-center white-font font-weight-300" style="font-weight: bold">The premier text-focused data science conference at the University of California, Berkeley.</p>
 
+<br>
 <div class="container">
   <div class="row">
     <div class="col text-center">
@@ -87,8 +88,15 @@ width: 50%;
 <div class="container">
   <div class="row">
     <div class="col text-center">
-      <a href="#lightning_talk" type="button" class="btn btn-outline-dark">Interested in <br> presenting your research? <br> Learn more ... </a>
-      <a href="#hackathon" type="button" class="btn btn-outline-dark">Interested to <br> hack with a purpose? <br> Learn more ... </a>
+      <a href="#submission" type="button" class="btn btn btn-secondary btn-sm">Interested in presenting your research? Learn more ... </a>
+    </div>
+  </div>
+</div>
+
+<div class="container">
+  <div class="row">
+    <div class="col text-center">
+      <a href="#hackathon" type="button" class="btn btn btn-secondary btn-sm">Interested to hack with a purpose? Learn more ... </a>
     </div>
   </div>
 </div>
