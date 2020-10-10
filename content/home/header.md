@@ -70,15 +70,14 @@ width: 50%;
 <!-- <div style="background-color: rgba(50, 50, 50, 0.5); border: 4px solid #aaa; margin-bottom: 0; padding-bottom: 0; max-width: 1000px; margin-left: auto; margin-right: auto; padding-left: 10pt; padding-right: 10pt"> -->
 <h1 class="text-center white-font font-weight-90" style="font-weight: bold">TextXD: Text Analysis Across Domains</h1>
 <h1 class="text-center white-font font-weight-90">Dec. 10 - 12, 2020</h1>
-<p class="text-center white-font font-weight-90">The premier text-focused data science conference at the University of California, Berkeley.</p>
+<!-- <p class="text-center white-font font-weight-90">The premier text-focused data science conference at the University of California, Berkeley.</p>-->
 
 <br>
-
 
 <div class="container">
   <div class="row">
     <div class="col text-center">
-    <a href="https://www.eventbrite.com/e/textxd-text-analysis-across-domains-2020-registration-123743043775?aff=odeimcmailchimp&mc_cid=d85ef03802&mc_eid=[UNIQID]" type="button" class="btn btn-outline-secondary btn-lg">Register Now</a>
+    <a href="https://www.eventbrite.com/e/textxd-text-analysis-across-domains-2020-registration-123743043775?aff=odeimcmailchimp&mc_cid=d85ef03802&mc_eid=[UNIQID]" type="button" class="btn btn-outline-light btn-lg">Register Now</a>
     </div>
   </div>
 </div>
@@ -88,8 +87,8 @@ width: 50%;
 <div class="container">
   <div class="row">
     <div class="col text-center">
-      <a href="#lightning_talk" type="button" class="btn btn-outline-light btn-lg">Interested in Lightning Talk</a>
-      <a href="#hackathon" type="button" class="btn btn-outline-light btn-lg">Interested in Hackathon</a>
+      <a href="#lightning_talk" type="button" class="btn btn-outline-light">Interested in Lightning Talk?</a>
+      <a href="#hackathon" type="button" class="btn btn-outline-light">Interested in Hackathon?</a>
     </div>
   </div>
 </div>
