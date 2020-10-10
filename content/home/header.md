@@ -80,7 +80,7 @@ width: 50%;
   </div>
 </div>
 <br>
-<p class="text-center white-font font-weight-500" style="font-weight: bold">The Conference Program will be available in mid November.</p>
+<p class="text-center white-font font-weight-500" style="font-weight: bold">The Conference Program will be available mid November.</p>
 <br>
 <div class="container">
   <div class="row">
@@ -97,8 +97,6 @@ width: 50%;
     </div>
   </div>
 </div>
-
-
 <ul style="list-style-type:disc; margin-bottom: 0">
 <!--<li><a href="/call-for-submissions">Call for Submissions</a>: submit an abstract by Friday, September 20</li>-->
 <!-- <li> <a href="/2019/program/">View the program</a></li>
@@ -118,7 +116,7 @@ width: 50%;
 <p class="text-center white-font font-weight-5000"><b>Hosted by <a href="https://bids.berkeley.edu/">Berkeley Institute for Data Science</a> (BIDS) </b></p>
 
 <!--<li>{{< figure library="true" src="sponsor.png" height="300" width="900" class="center" lightbox="true" >}}</li>-->
-<p class="text-center"><font size="2"> The Berkeley Institute for Data Science thanks Accenture AppIied Intelligence for its support of our conference this year. </font> </p>
+<p class="text-center"><font size="10"> The Berkeley Institute for Data Science thanks Accenture AppIied Intelligence for its support of our conference this year. </font> </p>
 <!--<li><p class="text-center white-font font-weight-90"><a href="#contact">Contact us</a> to become a TextXD 2020 Sponsor.</p></li>-->
 
 </div>
