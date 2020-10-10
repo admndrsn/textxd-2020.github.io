@@ -87,8 +87,8 @@ width: 50%;
 <div class="container">
   <div class="row">
     <div class="col text-center">
-      <a href="#lightning_talk" type="button" class="btn btn-outline-dark">Interested in <br> presenting your research?</a>
-      <a href="#hackathon" type="button" class="btn btn-outline-dark">Interested to <br> hack with a purpose?</a>
+      <a href="#lightning_talk" type="button" class="btn btn-outline-dark">Interested in <br> presenting your research? <br> Learn more ... </a>
+      <a href="#hackathon" type="button" class="btn btn-outline-dark">Interested to <br> hack with a purpose? <br> Learn more ... </a>
     </div>
   </div>
 </div>
