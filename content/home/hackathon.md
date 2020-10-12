@@ -23,6 +23,6 @@ subtitle = ""
 
 This year we wish to hold a three-day (48 hour) hackathon. The theme of the hackathon will be "Law and Society", and the dataset we will be analyzing will reflect an archive of texts from investigative reporting on the subject of police (mis)conduct.
 
-🗓️ We will accept applications up until November 1, 2020.
+🗓️ We will accept applications up until November 15, 2020.
 
 <a href="https://docs.google.com/forms/d/e/1FAIpQLScs-HArdvW4uwGT3mSl_j06LEWSF7zb85TEzVoTHBgfxakfJw/viewform?usp=pp_url&mc_cid=d85ef03802&mc_eid=[UNIQID]" type="button" class="btn btn-info btn-lg">Apply for Hackathon</a>

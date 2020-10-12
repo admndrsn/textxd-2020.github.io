@@ -32,6 +32,6 @@ SCHEDULE IN BRIEF:
 
 We understand that some of the best work on text analysis across domains is still in development. For this reason, we wish to encourage you to share your work with us by submitting a short 3-5 minute lightning talk of your research involving text analysis.
 
-🗓️ We will accept submissions up until November 1, 2020.
+🗓️ We will accept submissions up until November 15, 2020.
 
 <a href=https://docs.google.com/forms/d/e/1FAIpQLSe6GkEguRBZW4QhA0Xu7InXnCsPTURc6MldRALeJluLWyhZOg/viewform?usp=pp_url&mc_cid=d85ef03802&mc_eid=[UNIQID]" type="button" class="btn btn-info btn-lg">Submit your Lightning Talk</a>
