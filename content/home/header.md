@@ -85,7 +85,7 @@ width: 50%;
 <div class="container">
   <div class="row">
     <div class="col text-center">
-      <a href="#submission" type="button" class="btn btn btn-secondary">Interested in presenting your research? Learn more ... </a>
+      <a href="#submission" type="button" class="btn btn btn-secondary">Interested in presenting your research? <br> Learn more ... </a>
     </div>
   </div>
 </div>
@@ -93,7 +93,7 @@ width: 50%;
 <div class="container">
   <div class="row">
     <div class="col text-center">
-      <a href="#hackathon" type="button" class="btn btn btn-secondary">Interested to hack with a purpose? Learn more ... </a>
+      <a href="#hackathon" type="button" class="btn btn btn-secondary">Interested to hack with a purpose? <br> Learn more ... </a>
     </div>
   </div>
 </div>
