@@ -24,6 +24,11 @@
   weight = 22
 
 [[main]]
+  name = "Posts"
+  url = "#posts"
+  weight = 23
+
+[[main]]
   name = "Program"
   url = "#2020"
   weight = 30
