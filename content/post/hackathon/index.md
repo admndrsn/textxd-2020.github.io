@@ -3,6 +3,7 @@ title: TextXD “Law and Society” Hackathon to focus on police misconduct and 
 subtitle:
 summary:
 authors:
+- Marsha Fenner
 - Adam Anderson
 tags: []
 categories: []
